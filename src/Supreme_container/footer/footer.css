@@ -1,0 +1,18 @@
+.container{
+    color: white;
+    display: flex;
+    justify-content: space-a;
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+}
+.useful-links p a:hover{
+    border-bottom: 2px solid orange;
+    transition: 0.3s;
+}
+.useful-links p a{
+    text-decoration: none;
+}
+.copyright{
+    color: white !important;
+}
